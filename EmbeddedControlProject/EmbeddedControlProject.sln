@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedControlProject", "EmbeddedControlProject\EmbeddedControlProject.csproj", "{1A2AD66A-DFB4-4620-BC9D-AA19CDB31632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedControlProject.Tests", "EmbeddedControlProject.Tests\EmbeddedControlProject.Tests.csproj", "{FDFBF763-6A5F-4D01-A0DD-F3A94963D793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2AD66A-DFB4-4620-BC9D-AA19CDB31632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2AD66A-DFB4-4620-BC9D-AA19CDB31632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2AD66A-DFB4-4620-BC9D-AA19CDB31632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2AD66A-DFB4-4620-BC9D-AA19CDB31632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFBF763-6A5F-4D01-A0DD-F3A94963D793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFBF763-6A5F-4D01-A0DD-F3A94963D793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFBF763-6A5F-4D01-A0DD-F3A94963D793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFBF763-6A5F-4D01-A0DD-F3A94963D793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B29725-F889-4861-B8B2-6351913C0A51}
+	EndGlobalSection
+EndGlobal
